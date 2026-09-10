@@ -1,0 +1,41 @@
+bill,supplier,due_date,amount_aed,category
+BILL-700,Flydubai,2026-10-23,6870,Travel
+BILL-701,Emirates Post,2026-10-25,1312,Operations
+BILL-702,DEWA,2026-10-08,6600,Utilities and telecoms
+BILL-703,Emirates Post,2026-10-05,6819,Operations
+BILL-704,Flydubai,2026-09-09,6834,Travel
+BILL-705,Emirates Post,2026-11-30,1538,Operations
+BILL-706,DEWA,2026-10-28,22364,Utilities and telecoms
+BILL-707,Microsoft,2026-11-09,2622,Software
+BILL-708,Emirates Post,2026-09-20,22369,Operations
+BILL-709,Gulf Office Supplies,2026-11-07,6880,Operations
+BILL-710,DEWA,2026-09-29,2465,Utilities and telecoms
+BILL-711,Etisalat,2026-09-28,9238,Utilities and telecoms
+BILL-712,Zoho Corp,2026-11-26,22305,Software
+BILL-713,Freelance developers,2026-12-02,3879,Contractors
+BILL-714,Dubai Insurance,2026-11-18,2410,Insurance
+BILL-715,Etisalat,2026-12-01,1469,Utilities and telecoms
+BILL-716,Zoho Corp,2026-11-03,22099,Software
+BILL-717,Microsoft,2026-09-12,3908,Software
+BILL-718,Al Futtaim Motors,2026-11-12,2791,Vehicles
+BILL-719,Flydubai,2026-10-20,4078,Travel
+BILL-720,Gulf Office Supplies,2026-09-25,1578,Operations
+BILL-721,Emirates Post,2026-11-06,14798,Operations
+BILL-722,Dubai Insurance,2026-11-01,22256,Insurance
+BILL-723,Zoho Corp,2026-11-16,2668,Software
+BILL-724,Dubai Insurance,2026-09-11,22225,Insurance
+BILL-725,Zoho Corp,2026-11-25,1597,Software
+BILL-726,Zoho Corp,2026-10-01,2642,Software
+BILL-727,Flydubai,2026-09-24,9031,Travel
+BILL-728,Emirates Post,2026-12-05,9271,Operations
+BILL-729,Dubai Insurance,2026-11-09,22397,Insurance
+BILL-730,DEWA,2026-11-19,1327,Utilities and telecoms
+BILL-731,Microsoft,2026-10-14,1595,Software
+BILL-732,DEWA,2026-11-12,6787,Utilities and telecoms
+BILL-733,Etisalat,2026-09-17,6666,Utilities and telecoms
+BILL-734,Flydubai,2026-11-12,9262,Travel
+BILL-735,Microsoft,2026-12-06,4031,Software
+BILL-736,Dubai Insurance,2026-11-16,22244,Insurance
+BILL-737,Dubai Insurance,2026-10-10,14767,Insurance
+BILL-738,Al Futtaim Motors,2026-11-19,2629,Vehicles
+BILL-739,Zoho Corp,2026-11-01,1400,Software

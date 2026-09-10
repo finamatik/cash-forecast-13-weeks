@@ -1,0 +1,10 @@
+name,category,amount_aed,frequency,day_or_date,direction
+Payroll,Payroll,168000,monthly,25,out
+Office rent (quarterly cheque),Rent,96000,once,2026-10-01,out
+VAT payment Q3,Tax,74000,once,2026-10-28,out
+Corporate tax payment,Tax,61000,once,2026-09-30,out
+Bank charges and card fees,Bank,1800,weekly,,out
+Fuel and transport,Operations,2600,weekly,,out
+Retainer: Desert Rose Clinics,Retainer income,18500,monthly,5,in
+Retainer: Blue Coast Cafe,Retainer income,6500,monthly,5,in
+Health insurance renewal,Insurance,42000,once,2026-11-15,out
